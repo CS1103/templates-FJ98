@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/QuickSort-test.cpp">
+			<Option target="QUICKSORT_TEMPLATE"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/main.cpp">
 			<Option target="QUICKSORT_TEMPLATE"/>
 		</Unit>

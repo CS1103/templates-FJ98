@@ -123,6 +123,33 @@ QUICKSORT_TEMPLATE/fast:
 	$(MAKE) -f CMakeFiles/QUICKSORT_TEMPLATE.dir/build.make CMakeFiles/QUICKSORT_TEMPLATE.dir/build
 .PHONY : QUICKSORT_TEMPLATE/fast
 
+QuickSort-test.o: QuickSort-test.cpp.o
+
+.PHONY : QuickSort-test.o
+
+# target to build an object file
+QuickSort-test.cpp.o:
+	$(MAKE) -f CMakeFiles/QUICKSORT_TEMPLATE.dir/build.make CMakeFiles/QUICKSORT_TEMPLATE.dir/QuickSort-test.cpp.o
+.PHONY : QuickSort-test.cpp.o
+
+QuickSort-test.i: QuickSort-test.cpp.i
+
+.PHONY : QuickSort-test.i
+
+# target to preprocess a source file
+QuickSort-test.cpp.i:
+	$(MAKE) -f CMakeFiles/QUICKSORT_TEMPLATE.dir/build.make CMakeFiles/QUICKSORT_TEMPLATE.dir/QuickSort-test.cpp.i
+.PHONY : QuickSort-test.cpp.i
+
+QuickSort-test.s: QuickSort-test.cpp.s
+
+.PHONY : QuickSort-test.s
+
+# target to generate assembly for a file
+QuickSort-test.cpp.s:
+	$(MAKE) -f CMakeFiles/QUICKSORT_TEMPLATE.dir/build.make CMakeFiles/QUICKSORT_TEMPLATE.dir/QuickSort-test.cpp.s
+.PHONY : QuickSort-test.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... QUICKSORT_TEMPLATE"
 	@echo "... edit_cache"
+	@echo "... QuickSort-test.o"
+	@echo "... QuickSort-test.i"
+	@echo "... QuickSort-test.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/cygdrive/c/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/QuickSort-test.cpp" "/cygdrive/c/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/cmake-build-debug/CMakeFiles/QUICKSORT_TEMPLATE.dir/QuickSort-test.cpp.o"
   "/cygdrive/c/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/main.cpp" "/cygdrive/c/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/cmake-build-debug/CMakeFiles/QUICKSORT_TEMPLATE.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
