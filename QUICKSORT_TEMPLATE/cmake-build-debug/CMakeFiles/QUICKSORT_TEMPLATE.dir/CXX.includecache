@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/MergeSort.h
+vector
+-
+algorithm
+-
+
+/cygdrive/c/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/main.cpp
+iostream
+-
+MergeSort.h
+/cygdrive/c/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/MergeSort.h
+
